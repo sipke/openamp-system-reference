@@ -13,7 +13,7 @@
 
   * Remote processor firmware for Xilinx ZynqMP cortex-r5 platform based on: [rpmsg-echo.c](https://github.com/OpenAMP/open-amp/blob/main/apps/examples/echo/rpmsg-echo.c)
 
-  * Instructions to compile: [ZynqMP r5f generic baremetal](https://github.com/OpenAMP/open-amp/blob/main/README.md#example-to-compile-zynq-ultrascale-mpsoc-r5-genericbaremetal-remote)
+  * Instructions to compile: [ZynqMP r5f generic baremetal](/open-amp/README.md#example-to-compile-zynq-ultrascale-mpsoc-r5-genericbaremetal-remote)
 
   * RPU firmware elf file is expected in sdk at path: /lib/firmware/
 
@@ -21,6 +21,9 @@
 
   * More information is provided here: [Xilinx Wiki page for OpenAMP](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18841718/OpenAMP)
 
+  * testing link to other file: [test link](zephyr_initialization)
+
+  (echo_test_run_the_demo)=
   ## Run the demo
 
   Assume all the binaries are board specific.
